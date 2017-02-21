@@ -1,5 +1,5 @@
 #import "SMXCrashlytics.h"
-#import <Crashlytics/Crashlytics.h>
+#import <Crashlytics.h>
 
 @implementation SMXCrashlytics
 @synthesize bridge = _bridge;

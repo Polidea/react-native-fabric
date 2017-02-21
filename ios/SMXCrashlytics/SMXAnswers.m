@@ -2,7 +2,7 @@
 #import "RCTBridgeModule.h"
 #import "RCTEventDispatcher.h"
 #import "RCTBridge.h"
-#import <Crashlytics/Crashlytics.h>
+#import <Crashlytics.h>
 
 @implementation SMXAnswers
 @synthesize bridge = _bridge;
